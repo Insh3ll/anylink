@@ -34,4 +34,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: Insh3ll/anylink:latest
+          tags: insh3ll/anylink:latest
