@@ -1,4 +1,4 @@
-name: Docker Publish
+name: Docker Publish Dev
 
 on: workflow_dispatch
 
@@ -34,4 +34,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: user/app:latest
+          tags: Insh3ll/anylink:latest
